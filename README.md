@@ -11,5 +11,6 @@ For optimal performance, allocate **4GB** of RAM, and use the following JVM argu
 - [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling)
 
 ## Server Details
+Running on a dedicated server, tunneling through Playit.
 - IP Address: `147.185.221.17`
 - Port: `28054`
