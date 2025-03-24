@@ -12,5 +12,5 @@ For optimal performance, allocate **4GB** of RAM, and use the following JVM argu
 
 ## Server Details
 Running on a dedicated server, tunneling through Playit.
-- IP Address: `147.185.221.17`
+- IP Address: ```147.185.221.17```
 - Port: `28054`
