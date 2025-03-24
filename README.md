@@ -9,3 +9,7 @@ For optimal performance, allocate **4GB** of RAM, and use the following JVM argu
 - [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric)
 - [Pickable Villagers](https://www.curseforge.com/minecraft/mc-mods/pickable-villagers)
 - [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling)
+
+## Server Details
+- IP Address: `147.185.221.17`
+- Port: `28054`
