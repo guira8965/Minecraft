@@ -1,4 +1,4 @@
-# Prominence II
+# Prominence II RPG v3.1.6
 For optimal performance, allocate 4GB of RAM, and use the following JVM arguments:
 
 ```bash
