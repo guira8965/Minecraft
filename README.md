@@ -5,7 +5,7 @@ For optimal performance, allocate **4GB** of RAM, and use the following JVM argu
 -XX:+UseG1GC -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+OptimizeStringConcat -XX:+UseStringDeduplication -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true
 ```
 
-## Additional Mods [(🔗)](Craftoria)
+## Additional Mods [(🔗)](Craftoria/mods.7z)
 - [EnderIO](https://www.curseforge.com/minecraft/mc-mods/ender-io)
 - [BuildingWands (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/building-wands)
 - [Iron Furnaces (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
