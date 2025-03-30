@@ -1,4 +1,4 @@
-# Prominence II RPG v3.1.6
+# Craftoria v1.17.3
 For optimal performance, allocate **4GB** of RAM, and use the following JVM arguments:
 
 ```bash
@@ -12,5 +12,5 @@ For optimal performance, allocate **4GB** of RAM, and use the following JVM argu
 
 ## Server Details
 Running on a dedicated server, tunneling through Playit.
-- IP Address: `147.185.221.17`
-- Port: `28054`
+- IP Address: `147.185.221.21`
+- Port: `50500`
